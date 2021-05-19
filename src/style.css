@@ -1,0 +1,23 @@
+.title-red {
+  font-style: italic;
+  font-weight: 100;
+  color: #282c34;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin: 80px 200px 100px 290px;
+  border-radius: ;
+}
+.title {
+  color: red;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  border-top: solid black 1px;
+  border-bottom: solid black 1px;
+
+  box-shadow: red 1px 7px 30px;
+}
